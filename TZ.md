@@ -88,9 +88,7 @@
         - **Библиотеки Python:**
             - NumPy 1.26  
             - Pandas 2.1  
-            - Requests 2.31  
-            - OpenCV 4.8  
-            - Pillow 10.0  
+            - Requests 2.31   
             - Matplotlib 3.8 
             - rpi_ws281x 5.0 (или совместимая библиотека для управления светодиодной матрицей 64×64)  
             - paho-mqtt 1.6
