@@ -101,7 +101,6 @@
         - Spring Boot: 3.1.x
         - СУБД: PostgreSQL 15
         - **Библиотеки/зависимости:**  
-            - Spring WebFlux (для реактивных API)  
             - Spring Security (для авторизации и аутентификации)  
             - Jackson 2.15 (JSON-сериализация)  
             - Lombok 1.18  
